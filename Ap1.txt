@@ -1,0 +1,6 @@
+Ap1 
+
+Git clone https://github.com/FelipePrestes1/AvaliacaoAp1.git    (clonar repositório remoto)
+Cd AvaliacaoAp1 (entrar na pasta clonada)
+Touch ap1.txt. (criar arquivo de texto)
+Code . (acessar arquivo de texto)
