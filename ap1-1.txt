@@ -1,0 +1,11 @@
+Git add . (adicionar arquivo ao índice)
+Git commit (para comitar e confirmar as alterações)
+Git push (para enviar as alterações ao repositório local)
+Foram escritos na mesma linha utilizando && entre comandos. 
+
+Após criado novo arquivo de texto com touch arquivo.txt
+
+As próxoimas alterações serão: 
+Git add . (adicionar arquivo ao índice)
+Git commit (para comitar e confirmar as alterações)
+Git push (para enviar as alterações ao repositório local) 
